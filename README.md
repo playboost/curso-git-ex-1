@@ -1,4 +1,4 @@
-# Tarefa do curso
+# Tarefa 1 do curso
 
 Curso de git
 
@@ -8,6 +8,4 @@ commit com dev
 
 está demorando mas está saindo.
 
-# Tarefa 1 do curso
-
-Escreva um texto abaixo do título como desejar
+Agora consegui, acho que é isso.
